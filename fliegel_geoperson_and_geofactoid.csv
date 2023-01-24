@@ -1,0 +1,390 @@
+person,signature,factoid,year,note,sentiment,geo_person,lat,lon,geo_factoid,factoid_lat,factoid_lon
+"Adolph, Jacob; Bethlehem.","116,2",Coming to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Adolph, Jacob; Bethlehem.","116,2",Arriving at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Albrecht, Johann Andreas; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Albrecht, Johann Andreas; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Anders, Anna Rosina; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Anders, Anna Rosina; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Anderson, trader; Pittsburg.","144,7",Taking letters to Bethlehem,1776,,NEUTRAL,Pittsburg,39.94677,-76.40302,Bethlehem,40.86173,-78.73031
+"Anderson, trader; Pittsburg.","144,7",via Schonbrunn to Pittsburg,1776,,NEUTRAL,Pittsburg,39.94677,-76.40302,Pittsburg,39.94677,-76.40302
+"Antes, Henry; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Antes, Henry; Bethlehem.","127,1",Going from Amboy to Staten Island,1764,,NEUTRAL,Bethlehem,40.86173,-78.73031,Staten Island,40.56233,-74.13986
+"Antes, Henry; Bethlehem.","127,1",Taking letters to Staten Island,1764,,NEUTRAL,Bethlehem,40.86173,-78.73031,Staten Island,40.56233,-74.13986
+"Antes, Henry; Bethlehem.","127,1",Returning to Bethlehem,1764,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Ardin, James; Bethlehem.","117,1",Doing carpenter work at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Aspich, dr.; Westmoreland Co., Pa.","173,2",Visitor at Goshen,1806,,NEUTRAL,"Westmoreland County, Pennsylvania",40.31073,-79.46696,Goshen,41.40204,-74.32432
+"Bachhoff, Ludolph Gottlieb; Bethlehem.","121,6",Welcoming visitors at Shamokin,1754,,POSITIVE,Bethlehem,40.86173,-78.73031,Shamokin,40.78897,-76.55885
+"Bachhoff, Ludolph Gottlieb; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bagge, Lorens; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bagge, Lorens; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bawbee (""Papi""), dr.; Malden, Ontario.","174,3",Charge for visit at Thames R. No. 3,1803,,NEUTRAL,"Malden, Ontario",42.08339,-83.04985,Thames River,42.31679,-82.44981
+"Bawbee, commissary at Detroit.","151,1",Owner of land on Huron (Clinton) River,1782,,NEUTRAL,Detroit,42.33143,-83.04575,Clinton River,42.59476,-82.77547
+"Beaver, surveyor; Georgetown.","171,6",Visitor at Goshen,1800,,NEUTRAL,Georgetown,47.49989,-53.21478,Goshen,41.40204,-74.32432
+"Beaver, surveyor; Georgetown.","171,7",Friend &amp; visitor at Goshen,1800,,POSITIVE,Georgetown,47.49989,-53.21478,Goshen,41.40204,-74.32432
+"Bechtel, Johann; Bethlehem.","118,1",Coming to Gnadenhutten as investigator,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bechtel, Johann; Bethlehem.","117,1",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bechtel, Johann; Bethlehem.","117,1",Returning to Bethlehem,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Bechtel, Johann; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bernhardt, Wenzel; Nazareth.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Bernhardt, Wenzel; Nazareth.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Beroth, Johannes; Christiansbrunn.","116,5",Coming to Gnadenhutten,1749,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Beroth, Johannes; Christiansbrunn.","116,6",Going to Bethlehem,1749,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Beyer, Friedrich; Bethlehem.","118,2",Going to Bethlehem,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Bez, Andreas; Bethlehem.","121,5",Arriving at Shamokin,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Shamokin,40.78897,-76.55885
+"Bez, Andreas; Bethlehem.","121,5",To Tulpehocken for supplies,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Tulpehocken,39.71334,-74.56316
+"Binder, Catharine; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Binder, Catharine; Bethlehem.","117,4",Returning to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Bischoff, Johann David; Bethlehem, Pa.","112,12",Reporting on his journey to Shekomeko,1745,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+"Bless, Abraham; Bethlehem.","118,1",Coming to Gnadenhutten for business,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Boehler, Elizabeth (""Liesol"").","118,1",Arriving at Gnadenhutten,1754,,NEUTRAL,Elizabeth,40.66399,-74.2107,Gnadenhutten,40.3584,-81.43428
+"Boehler, Elizabeth (""Liesol"").","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Elizabeth,40.66399,-74.2107,Gnadenhutten,40.3584,-81.43428
+"Boehler, Wilhelm; Bethlehem, Pa.","115,3",Returning to Bethlehem,1755,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Boehler, Wilhelm; Bethlehem, Pa.","115,15",Accompanying Petrus Boehler to Europe No. 14,1755,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Europe,45.27262,-86.98636
+"Boehnisch, Friedrich, missionary; Greenland.","116,6",Visitor at Gnadenhutten,1749,,NEUTRAL,Greenland,72.0,-40.0,Gnadenhutten,40.3584,-81.43428
+"Boemper, Abraham; Bethlehem.","116,3",Accompanying Spangenberg to Gnadenhutten,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Boemper, Abraham; Bethlehem.","116,6",Visitor at Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Boemper, Abraham; Bethlehem.","117,1",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Bonn, Jacob; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Bonn, Jacob; Christiansbrunn.","117,4",Coming to Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Bonn, Johannes; Bethlehem.","116,7",Arriving at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Boud, general; Lancaster Co.","173,2",Visitor at Goshen,1805,,NEUTRAL,Lancaster County,40.04244,-76.2477,Goshen,41.40204,-74.32432
+"Brad; Sharon, Conn.","111,1",Given assurance about the situation Shekomeko,1744,,POSITIVE,Connecticut,41.66704,-72.66648,Shekomeko,41.92815,-73.59901
+"Bryzelius, Paul Daniel; Bethlehem, Pa.","112,15",Keeping the minutes at Shekomeko conference 2/,1745,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+"Bryzelius, Paul Daniel; Bethlehem, Pa.","112,10",To hear a report on Mack's arrest at Esopus,1745,,NEGATIVE,"Bethlehem, Pennsylvania",40.86173,-78.73031,Esopus,41.82787,-73.96514
+"Bull; Litchfield Co., Conn.","115,9",Bringing mail from New York,1759,,NEUTRAL,"Litchfield County, Connecticut",41.74732,-73.18872,New York,43.00035,-75.4999
+"Burnside, James (""Bornseith""); Bethlehem, Pa.","111,1",Visitor at Shekomeko,1743,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+Campbell; Pittsburg.,"144,4",To forward letter to Lititz,1775,,NEUTRAL,Pittsburg,39.94677,-76.40302,Lititz,40.15732,-76.3069
+Campbell; Pittsburg.,"144,4",To Bethlehem,1775,,NEUTRAL,Pittsburg,39.94677,-76.40302,Bethlehem,40.86173,-78.73031
+Campbell; Pittsburg.,"144,4",To Lititz,1775,,NEUTRAL,Pittsburg,39.94677,-76.40302,Lititz,40.15732,-76.3069
+"Coelln, Claus; Christiansbrunn.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Colver, Elisha; Salisbury, Litchfield Co., Conn. (""Culver"").","115,3",Returned from Bethlehem,1755,,NEUTRAL,"Salisbury, Litchfield County, Connecticut",41.98343,-73.42123,Bethlehem,40.86173,-78.73031
+"Colver, Elisha; Salisbury, Litchfield Co., Conn. (""Culver"").","144,4",Taking a letter to Bethlehem,1751,,NEUTRAL,"Salisbury, Litchfield County, Connecticut",41.98343,-73.42123,Bethlehem,40.86173,-78.73031
+"Colver, Nathanael; Gnadenhutten.","175,6",Bringing mail from Bethlehem,1819,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Bethlehem,40.86173,-78.73031
+"Cornwall, (al. Cornwallis), Francis.","162,6","With wife, visiting at Fairfield",1802,,NEUTRAL,Cornwall,41.84371,-73.32928,Fairfield,41.14121,-73.26373
+"Cornwall, wife of Navy officer, Moravian.","152,1",Visitor from Detroit,1785,,NEUTRAL,Cornwall,41.84371,-73.32928,Detroit,42.33143,-83.04575
+"Cramer, Adam; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Cunow, Johann Gebhard, member P.E.C.; Bethlehem.","162,12",Official visit at Fairfield,1807,,NEUTRAL,Bethlehem,40.86173,-78.73031,Fairfield,41.14121,-73.26373
+"Davis, Jacob, millwright; Gnadenhutten.","171,4",Visitor at Goshen,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Demuth, John, drayman; Bethlehem.","171,9",Arrived at Gnadenhutten with mail,1801,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Demuth, John, drayman; Bethlehem.","171,9",To take mail back to Bethlehem,1801,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Demuth, John, drayman; Bethlehem.","171,9",Visitor at Goshen,1802,,NEUTRAL,Bethlehem,40.86173,-78.73031,Goshen,41.40204,-74.32432
+"Demuth, John, drayman; Bethlehem.","171,9",Expected to take letters &amp; diaries to Bethlehem,1802,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Doerrbaum, Johann Philipp; Bethlehem.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Douglas, Wheeler; Brantford, Ont.","172,1",Helping missionaries through Grand R.,1798,,POSITIVE,"Brantford, Ontario",43.1668,-80.29967,"Grand River, Ohio",41.76032,-81.28066
+"Dunmore, Lord, general governor of Virginia (""Don Moore"").","141,6",Arrives in Pittsburgh,1774,,NEUTRAL,Virginia,37.54812,-77.44675,Pittsburgh,40.44062,-79.99589
+"Eberhardt, Nicolaus Heinrich; Bethlehem.","118,2",Visitor at Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Eberhardt, Nicolaus Heinrich; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Eberhardt, Nicolaus Heinrich; Bethlehem.","117,4",Coming to Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Edmonds, Peter, Jr.; Beersheba.","173,9",Engaged as guard &amp; observer at Goshen,1812,,POSITIVE,Beersheba,35.03791,-81.31925,Goshen,41.40204,-74.32432
+"Edmonds, Peter; Gnadenhutten.","171,4",Visitor at Goshen,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Edmonds, Peter; Gnadenhutten.","171,8",Back from Georgetown,1800,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Georgetown,47.49989,-53.21478
+"Edmonds, Peter; Gnadenhutten.","171,9",Visitor at Goshen,1801,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Elliot, captain Matthew; Malden, Ont.","157,1","Owner of place 4 mi. below Malden, Ont.",1804,,NEUTRAL,"Malden, Ontario",42.08339,-83.04985,"Malden, Ontario",42.08339,-83.04985
+"Elliot, Matthew, capt.; Malden.","163,10",Visited in sickness at Burlington,1814,,NEUTRAL,Malden,42.08339,-83.04985,Burlington,43.38621,-79.83713
+"Elliot, Matthew, capt.; Malden.","163,10",Buried at Burlington in Denke's presence,1814,,NEUTRAL,Malden,42.08339,-83.04985,Burlington,43.38621,-79.83713
+"Espich, dr.; Lutheran clergyman and physician; New Philadelphia.","173,5",Visitor at Goshen,1808,,NEUTRAL,New Philadelphia,40.48979,-81.44567,Goshen,41.40204,-74.32432
+"Ettwein, Johannes, Moravian bishop; Bethlehem.","141,1",Writing from Great Island,1772,,POSITIVE,Bethlehem,40.86173,-78.73031,Great Island,47.23879,-52.77995
+"Ettwein, Johannes, Moravian bishop; Bethlehem.","151,1",Accompanies travellers to Easton,1783,,NEUTRAL,Bethlehem,40.86173,-78.73031,Easton,41.12728,-79.54088
+"Ettwein, Johannes, Moravian bishop; Bethlehem.","151,1",Letter dated May 9 delivered by American officers,1783,,NEUTRAL,Bethlehem,40.86173,-78.73031,America,37.13838,-89.12368
+"Euler (""Eiler""); Graceham (m.).","171,13",Visitor at Goshen,1803,,NEUTRAL,Graceham,39.61427,-77.38165,Goshen,41.40204,-74.32432
+Euler (fam.); Graceham.,"173,2",Visitor at Goshen,1806,,NEUTRAL,Graceham,39.61427,-77.38165,Goshen,41.40204,-74.32432
+"Everle, Jacob; Bethlehem.","118,4",Worker at the Gnadenhutten smithy,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Everle, Jacob; Bethlehem.","118,3",To Bethlehem for a visit,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Feldhausen, Heinrich; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+Fenner; Gnadenhutten.,"171,13",Visitor at Goshen,1803,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Flammand (""Flemming""), trader; Petquotting.","173,1",Bringing unfavorable news from Petquotting,1804,,NEUTRAL,Petquotting Creek,41.3981,-82.54906,Petquotting Creek,41.3981,-82.54906
+"Flammand (""Flemming""), trader; Petquotting.","173,2",Bringing information on recent treaty on Maumee R.,1805,,NEUTRAL,Petquotting Creek,41.3981,-82.54906,Maumee River,41.69949,-83.45993
+"Frey, Andreas; Warwick, Pa.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,"Warwick, Pennsylvania",40.1651,-75.78382,Gnadenhutten,40.3584,-81.43428
+"Frey, Henry; Bethlehem.","116,2",Coming to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Frey, Henry; Bethlehem.","116,2",Going to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Fritt, justice; Dutchess Co., N.Y.","112,6",Appearing at Shekomeko No. 11,1744,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Fuhrer, Valentine; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Fuhrer, Valentine; Bethlehem.","116,2",Going to Bethlehem with Seidel,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Fuhrer, Valentine; Bethlehem.","116,2",Coming as messenger to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Fuhrer, Valentine; Bethlehem.","116,3",Messenger from Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Fuss, Lucas; Christiansbrunn.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Gambold, John; Salem, N.C.","171,4",Letter received at Goshen,1799,,NEUTRAL,"Salem, North Carolina",35.69874,-81.69704,Goshen,41.40204,-74.32432
+"Geitner, Johann Georg; Bethlehem.","117,1",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Geitner, Johann Georg; Bethlehem.","117,3",Arriving at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Geitner, Johann Georg; Bethlehem.","116,4",Present at Gnadenhutten for a funeral,1748,,NEGATIVE,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Goebeld, settler; Mahoning Cr.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Mahoning Creek,40.93312,-79.46115,Gnadenhutten,40.3584,-81.43428
+"Gore, Francis, governor of Upper Canada.","163,1",Not stopping at Fairfield,1808,,POSITIVE,Upper Canada,44.05502,-79.48201,Fairfield,41.14121,-73.26373
+"Gottachalk, Matthias Gottlieb; Bethlehem.","116,3",Delivering a letter at Gnadenhutten,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Greer (""Grier""), Mary, m. n. Evrett; Gnadenhutten.","171,13",Visitor at Goshen,1803,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Greer, Paul; Gnadenhutten.","171,4",To Goshen for H. Communion,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Gross, Andress; Bethlehem.","117,3",Taking over duties at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Gross, Andress; Bethlehem.","117,4",Business trip to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Guenther, Jacob; Bethlehem.","116,7",Carrying letters to Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hagen, John Joachim; Neuwied.","173,1",Welcomed at Goshen,1804,,POSITIVE,Neuwied,50.4336,7.47057,Goshen,41.40204,-74.32432
+"Haldiman, British general; Quebec.","151,1",Approves new settlement on Huron River,1782,,POSITIVE,Quebec,52.00017,-71.99907,Huron River,46.90992,-88.03679
+"Haman, Adam; New Fairfield.","175,8",Letter rec. at Goshen,1821,,NEUTRAL,New Fairfield,39.50699,-84.97246,Goshen,41.40204,-74.32432
+Hamilton.,"173,8",Visitor at Goshen,1811,,NEUTRAL,Hamilton,39.3995,-84.56134,Goshen,41.40204,-74.32432
+"Hamilton, Henry.","147,7",British Governor at Detroit,1778,,NEUTRAL,Hamilton,39.3995,-84.56134,Detroit,42.33143,-83.04575
+"Hamilton, Henry.","147,7",Accuses Zeisberger of reporting to Pittsburg,1778,,NEGATIVE,Hamilton,39.3995,-84.56134,Pittsburg,39.94677,-76.40302
+"Hamilton, James, governor.","125,5",To have report on sale of gunpowder at Bethlehem No. 1,1763,,NEUTRAL,"Hamilton, Ohio",39.3995,-84.56134,Bethlehem,40.86173,-78.73031
+"Hamilton, Presbyterian.","111,1",Argumentative visitor at Shekomeko,1745,,NEGATIVE,Hamilton,39.3995,-84.56134,Shekomeko,41.92815,-73.59901
+"Harris, John, justice; Salisbury, Conn.","115,6",Bringing letters from New York,1757,,NEUTRAL,"Salisbury, Connecticut",41.98343,-73.42123,New York,43.00035,-75.4999
+"Hasselmann, Bartholomaus; Bethlehem.","116,4",Reported to have arrived from Europe,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Europe,45.27262,-86.98636
+"Hasselmann, Bartholomaus; Bethlehem.","116,5",Visitor at Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hays, Jewish businessman; Litchfield Co., Conn. (""Hess?, Heyse?"").","115,9",Bringing letters from New York,1759,,NEUTRAL,"Litchfield County, Connecticut",41.74732,-73.18872,New York,43.00035,-75.4999
+"Heber, Nicholas Klias; Nazareth.","172,1",Returning to Nazareth,1798,,NEUTRAL,Nazareth,40.74038,-75.30962,Nazareth,40.74038,-75.30962
+"Heckedorn, Erhard; Christiansbrunn.","117,4",Delivering letters at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Hege (al. ""Hoege""), Balthasar; Bethlehem.","117,3",Taking over duties at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hege (al. ""Hoege""), Balthasar; Bethlehem.","117,4",Going to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Hege (al. ""Hoege""), Balthasar; Bethlehem.","117,4",Going to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Hehl, Matthaeus, Moravian bishop; Lititz, Pa.","144,10",Letter received at Gnadenhutten,1781,,NEUTRAL,"Lititz, Pennsylvania",40.15732,-76.3069,Gnadenhutten,40.3584,-81.43428
+"Hehl, Matthaeus, Moravian bishop; Lititz, Pa.","144,11",Letter received at Gnadenhutten,1781,,NEUTRAL,"Lititz, Pennsylvania",40.15732,-76.3069,Gnadenhutten,40.3584,-81.43428
+"Herbst, Johann Heinrich; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Herzer, Johann Heinrich; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hirte, Martin; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hodel, Jacob; Gnadenhutten.","172,2",Sent to Pittsburg to assist travelling missionaries,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Pittsburg,39.94677,-76.40302
+"Hodel, Jacob; Gnadenhutten.","172,2",Trying to reach Gnadenhutten on horseback,1799,,POSITIVE,Gnadenhutten,40.3584,-81.43428,Gnadenhutten,40.3584,-81.43428
+"Hodel, Jacob; Gnadenhutten.","172,2",Going to Gnadenhutten for supplies,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Gnadenhutten,40.3584,-81.43428
+"Hoeger, Carl Friedrich Andress, architect; Bethlehem.","118,1",Arriving at Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hoeger, Carl Friedrich Andress, architect; Bethlehem.","118,1",Returning to Bethlehem,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Hoff, neighbor at Goshen.","171,11",Taking diaries to Gnadenhutten,1802,,NEUTRAL,Goshen,41.40204,-74.32432,Gnadenhutten,40.3584,-81.43428
+"Hoffmann, Johann Gottlob; Christiansbrunn.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Hoffmann, Johann Gottlob; Christiansbrunn.","121,6",Returned from N. Carolina,1754,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Carolina,31.24073,-86.52774
+"Hoffmann, Martinus; Dutchess Co., New York.","111,1",Helpful advice to Rauch 8/1740; Folder 7; In charge of mail for Shekomeko No. 2,1742,,POSITIVE,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Hoffmann, Matthaeus; Bethlehem.","116,4",Coming to Gnadenhutten to repair the mill dam,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hoffmann, Matthaeus; Bethlehem.","116,4",Returning to Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Hoffmann, Matthaeus; Bethlehem.","116,4",Coming to Gnadenhutten,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Holter, Andreas, s. of John, Sr. and Barbara (Volck), Holter; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Holter, Andreas, s. of John, Sr. and Barbara (Volck), Holter; Christiansbrunn.","118,1",Coming from Christiansbrunn,1754,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Christiansbrunn,39.95483,-75.99689
+"Holter, Andreas, s. of John, Sr. and Barbara (Volck), Holter; Christiansbrunn.","118,1",Going to Bethlehem,1754,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Home, Mrs.; Dutchess Co., New York.","111,6",Not considered as buyer of Shekomeko land,1743,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Horn, Andreas; Bethlehem.","117,1",Coming to Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Horn, Andreas; Bethlehem.","117,1",Returning to Bethlehem,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Horsfield, Timothy; Bethlehem.","116,4",Present at Gnadenhutten for a funeral,1748,,NEGATIVE,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Horsfield, Timothy; Bethlehem.","116,7",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Horsfield, Timothy; Bethlehem.","116,7",Arriving at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Horsfield, Timothy; Bethlehem.","116,7",Accompanying Cammerhoff to Wyoming,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Wyoming,41.47747,-105.63666
+"Hubener, Ludwig; Lititz.","171,7",Arriving at Gnadenhutten,1800,,NEUTRAL,Lititz,40.15732,-76.3069,Gnadenhutten,40.3584,-81.43428
+"Huber, Georg; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Huber, Georg; Christiansbrunn.","116,5",Coming to Gnadenhutten,1749,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Huebner, Ludwig; Bethlehem.","117,1",Coming to Gnadenhutten to set up a stove,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Huebner, Ludwig; Bethlehem.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Hunt, Samuel; Bethlehem.","118,1",Visitor at Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Ingebretsen, Eric; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Isles, Samuel, Bethlehem.","117,1",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Isles, Samuel, Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Itzkiu (Iskin), captain Army commissary; New Philadelphia.","173,9",Conversation with Mortimer at Goshen,1812,,NEUTRAL,New Philadelphia,40.48979,-81.44567,Goshen,41.40204,-74.32432
+"Jenson, Just (""Jost""); Bethlehem.","118,3",Coming to Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Jenson, Just (""Jost""); Bethlehem.","124,4",Visitor on Province Island,1763,,NEUTRAL,Bethlehem,40.86173,-78.73031,Province Island,39.88539,-75.22907
+"Jorde, Heinrich; Bethlehem.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Jungmann, s. Jacob Jungmann; Somerset.","173,2",Visitor at Goshen,1805,,NEUTRAL,Somerset,39.80701,-82.29709,Goshen,41.40204,-74.32432
+"Keegel, Gottfried; Neuwied, Germany.","175,3",Visitor at Goshen,1817,,NEUTRAL,"Neuwied, Germany",50.4336,7.47057,Goshen,41.40204,-74.32432
+Kettner; North Carolina.,"171,12",Visitor at Goshen,1803,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+Kettner; North Carolina.,"171,12",Visitor at Goshen,1803,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Klein, Georg (""Jurgen""); Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Klein, Georg (""Jurgen""); Bethlehem.","119,4",Signer of statement of losses at Gnadenhutten No. 5,1756,,NEGATIVE,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Kliest, Anna Rosina; Bethlehem.","171,13",Arriving at Goshen in Loskiel's company,1803,,NEUTRAL,Bethlehem,40.86173,-78.73031,Goshen,41.40204,-74.32432
+"Kliest, Anna Rosina; Bethlehem.","171,13",Participating in house-to-house visits at Goshen,1803,,NEUTRAL,Bethlehem,40.86173,-78.73031,Goshen,41.40204,-74.32432
+"Kliest, Daniel; Bethlehem.","121,6",Reporting on work at Shamokin,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Shamokin,40.78897,-76.55885
+"Kliest, Daniel; Bethlehem.","121,6",Deciding not to return to Bethlehem,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Klotz (Kloz, Glotz), Albrecht; Bethlehem, Lititz.","117,3",Helped across the Lehigh River,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Lehigh River,40.68899,-75.20434
+"Knauss, John; North Carolina.","171,9",Visitor at Goshen,1801,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Koenigsdoerffer, Gottlob; Bethlehem.","118,1",Return from North Carolina reported,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,North Carolina,35.50069,-80.00032
+"Koenigsdoerffer, Gottlob; Bethlehem.","118,1",Arriving at Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Koenigsdoerffer, Gottlob; Bethlehem.","117,4",Arrival from Europe reported,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Europe,45.27262,-86.98636
+"Koenigsdoerffer, Gottlob; Bethlehem.","117,4",Arrival from Europe,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Europe,45.27262,-86.98636
+"Kohn, Jacob; Bethlehem, Pa.","112,6","With wife, present at Bethlehem No. 12",1744,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Krause, Matthaous; Nazareth.","117,3",In charge of cattle at Gnadenhutten,1752,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Krause, Matthaous; Nazareth.","117,3",To Christiansbrunn for wheat,1752,,NEUTRAL,Nazareth,40.74038,-75.30962,Christiansbrunn,39.95483,-75.99689
+"Krause, Matthaous; Nazareth.","116,5",Visitor at Gnadenhutten,1749,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Krause, Matthaous; Nazareth.","116,5",Taking mail to Bethlehem,1749,,NEUTRAL,Nazareth,40.74038,-75.30962,Bethlehem,40.86173,-78.73031
+"Krause, Samuel, Nazareth.","117,2",Visitor at Gnadenhutten,1751,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Kreiter, Regina; Lititz.","173,10",Leaving Goshen,1813,,NEUTRAL,Lititz,40.15732,-76.3069,Goshen,41.40204,-74.32432
+"Kremser, Andreas; Nazareth.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Kremser, Andreas; Nazareth.","117,3",Helped across the Lehigh R.,1752,,NEUTRAL,Nazareth,40.74038,-75.30962,Lehigh River,40.68899,-75.20434
+"Kremser, Matthaous; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Kremser, Matthaous; Bethlehem.","119,1",Journey to Shamokin No. 6,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Shamokin,40.78897,-76.55885
+"Kuntz, Matthaous; Bethlehem.","121,5",Adventurous trip to Shamokin,1749,,POSITIVE,Bethlehem,40.86173,-78.73031,Shamokin,40.78897,-76.55885
+"Kuntz, Matthaous; Bethlehem.","121,5",Returning to Bethlehem,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Kunz, David; Bethlehem.","118,1",Coming to Gnadenhutten as carpenter,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lange, Gottlieb; Bethlehem.","118,1",Visitor at Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+Lanius; Yorktown.,"155,5",Relative of acquaintance at Detroit River,1791,,NEUTRAL,Yorktown,37.23858,-76.50894,Detroit River,42.04116,-83.14986
+"Lesley, John; Bethlehem.","116,3",Trip to Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Lighton, John; Salisbury, Conn.","115,2",Arrival at Rhinebeck,1754,,NEUTRAL,"Salisbury, Connecticut",41.98343,-73.42123,Rhinebeck,41.92676,-73.91264
+"Lighton, John; Salisbury, Conn.","115,3",Called back to Bethlehem,1755,,NEUTRAL,"Salisbury, Connecticut",41.98343,-73.42123,Bethlehem,40.86173,-78.73031
+"Lischer, John; Bethlehem.","116,1",Coming to Gnadenhutten with a wagon,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lischer, John; Bethlehem.","116,1",Bringing supplies to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lischer, John; Bethlehem.","116,2",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lischer, John; Bethlehem.","116,2",Coming to Gnadenhutten,1747-10-03,st. n.,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Livingston, Robert, Junior.","111,1",Anxious inquiry on rumors about Shekomeko,1746,,NEGATIVE,Kingston,44.22976,-76.48098,Shekomeko,41.92815,-73.59901
+"Lochter, captain; Dutchess Co., N.Y.","111,1",Curious about situation at Shekomeko,1745,,POSITIVE,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Loesch, George; North Carolina.","173,2","Nicelite Quaker, visiting at Goshen",1805,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Loesch, Hermann; Bethlehem.","116,4",Floating boards to Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Loesch, Hermann; Bethlehem.","117,1",Returning to Christiansbrunn 9/[?]/1750; Folder 3; Ref.,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Christiansbrunn,39.95483,-75.99689
+"Loesch, John; Salem, N.C.","171,13",Visitor at Goshen,1803,,NEUTRAL,"Salem, North Carolina",35.69874,-81.69704,Goshen,41.40204,-74.32432
+"Loescher, Jacob; Bethlehem.","116,1",Going to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Loescher, Jacob; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lueck, Martin; Bethlehem.","118,1",Coming to Gnadenhutten for business,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Lumm, Matthew; Morristown, N.J.","116,4",Visitor at Gnadenhutten,1748,,NEUTRAL,"Morristown, New Jersey",40.42511,-74.25376,Gnadenhutten,40.3584,-81.43428
+"Mack, Anna Elizabeth, d. of Martin and Anna Marg. Cath. (Rebstock), Mack.","118,2",Coming to Gnadenhutten,1754,,NEUTRAL,Elizabeth,40.66399,-74.2107,Gnadenhutten,40.3584,-81.43428
+"Mash, Presbyterian minister; Kent; Conn. (""Marsh"").","111,4-B",Explaining Connecticut laws on ministers,1743,,NEUTRAL,Connecticut,41.66704,-72.66648,Connecticut,41.66704,-72.66648
+"McCormick (""Makarmick""), trader; Sandusky, h. Martha (875).","147,8","Husband of late Martha, visitor from Sandusky",1778,,NEUTRAL,Upper Sandusky,40.82728,-83.28131,Sandusky,41.44894,-82.70796
+"Merck, Johann Heinrich; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Metzger; York, Pa.","173,11",Interested visitor at Goshen,1814,,POSITIVE,"York, Pennsylvania",39.9626,-76.72774,Goshen,41.40204,-74.32432
+"Meyer, Jacob; Christiansbrunn.","117,3",Bringing flour to Gnadenhutten,1752,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Miller, Jacob; Lititz.","175,2",Visitor at Goshen,1817,,NEUTRAL,Lititz,40.15732,-76.3069,Goshen,41.40204,-74.32432
+"Miller; Yorktown, Virginia.","162,6",Visitor at Fairfield,1802,,NEUTRAL,"Yorktown, Virginia",37.23858,-76.50894,Fairfield,41.14121,-73.26373
+"Milligan, lieutenant; Kent, Conn.","111,4B",Drawing attention to new Connecticut law,1743,,NEUTRAL,Connecticut,41.66704,-72.66648,New Connecticut,42.27313,-76.14798
+"Mitchell; Litchfield Co., Conn.","115,12",Asked to take letters to New York,1762,,NEUTRAL,"Litchfield County, Connecticut",41.74732,-73.18872,New York,43.00035,-75.4999
+"Mitchell; Litchfield Co., Conn.","115,12",Announcing trip to New York,1762,,NEUTRAL,"Litchfield County, Connecticut",41.74732,-73.18872,New York,43.00035,-75.4999
+"Mueller, Abraham, Jr.; Bethlehem.","116,6",Bringing a letter to Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Mueller, Abraham, Jr.; Bethlehem.","116,7",Messenger coming to Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Mueller, Johannes; Bethlehem.","117,2",Going to Bethlehem,1751,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Muenster, Melchior; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Nagel, Johann Jacob; Christiansbrunn.","117,3",Coming to Gnadenhutten for tar,1751,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Nagel, Johann Jacob; Christiansbrunn.","117,3",Bringing flour to Gnadenhutten,1752,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Nagel, Johann Jacob; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Neisser, Catharina, m. n. Medler, w. George Neisser; Philadelphia.","124,4",Visitor on Province Island,1763,,NEUTRAL,Philadelphia,39.95238,-75.16362,Province Island,39.88539,-75.22907
+"Odenwald, Johann Michael; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Paulson, Johann Heinrich; Bethlehem.","116,4",Coming to float boards to Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Payne, Jasper, innkeeper; Bethlehem.","117,3",Coming to Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Payne, Jasper, innkeeper; Bethlehem.","117,3",Stopping at Gnadenhutten,1752,,NEGATIVE,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Peddicoart (""Petticoart""), Horatio; North Carolina.","171,9",Visitor at Goshen,1801,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Peter, David; Gnadenhutten.","171,5",Arrival at Gnadenhutten,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Gnadenhutten,40.3584,-81.43428
+"Peter, David; Gnadenhutten.","171,5",Seeing many customers from Goshen,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Pfeil, Friedrich Jacob; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Piesch, Anna Johanna; Bethlehem, Pennsylvania.","114,7",To be met at New York,1753,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,New York,43.00035,-75.4999
+"Pitschmann (al. Pizmann), Georg; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Pitschmann (al. Pizmann), Georg; Christiansbrunn.","118,1",Coming to Gnadenhutten,1754,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Powell, Martha, wid. Samuel Powell; Philadelphia, Pa.","124,4",Visitor on Province Island,1763,,NEUTRAL,"Philadelphia, Pennsylvania",39.95238,-75.16362,Province Island,39.88539,-75.22907
+"Pressor, Martin; Christiansbrunn.","117,3",Doing carpenter work at Gnadenhutten,1752,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Pressor, Martin; Christiansbrunn.","117,3",To Bethlehem for a visit,1752,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Pressor, Martin; Christiansbrunn.","117,3",Going to Bethlehem,1752,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Pressor, Martin; Christiansbrunn.","117,3",To Bethlehem for the choir festival,1752,,POSITIVE,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Pressor, Martin; Christiansbrunn.","117,3",Going to Bethlehem,1752,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+Price; Philadelphia.,"171,13",At Goshen on business,1803,,NEUTRAL,Philadelphia,39.95238,-75.16362,Goshen,41.40204,-74.32432
+"Ramsberg, Anna; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Rauch, Anna Elizabeth, m. n. Robins, w. of Chr. H. Rauch.","111,1",To be escorted from Rhinebeck,1744,,NEUTRAL,Elizabeth,40.66399,-74.2107,Rhinebeck,41.92676,-73.91264
+"Rauh, Wilhelm, s. Johannes Rauh; Dutchess Co., N.Y.","116,4",Arrival at Bethlehem reported,1748,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Bethlehem,40.86173,-78.73031
+"Rauh, Wilhelm, s. Johannes Rauh; Dutchess Co., N.Y.","116,4",Visitor at Gnadenhutten,1748,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Gnadenhutten,40.3584,-81.43428
+"Rauh, Wilhelm, s. Johannes Rauh; Dutchess Co., N.Y.","116,4",Returning to Bethlehem,1748,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Bethlehem,40.86173,-78.73031
+"Rauh, Wilhelm, s. Johannes Rauh; Dutchess Co., N.Y.","116,5",Going to Bethlehem,1749,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Bethlehem,40.86173,-78.73031
+"Reichel, Carl Gotthold, pastor and principal of Nazareth Hall; Nazareth.","172,1",Rememb. for sermon preached at Wilkes-Barre,1798,,NEUTRAL,Nazareth Hall,45.03913,-93.16911,Wilkes-Barre,41.24591,-75.88131
+"Reichel, Carl Gotthold; Nazareth.","162,13",Issuing call to Oppelt for mission service at Fairfield No. 1,1799,,NEUTRAL,Nazareth,40.74038,-75.30962,Fairfield,41.14121,-73.26373
+"Rice, Owen, Jr.; Bethlehem.","175,4",Departure for Europe,1818,,NEUTRAL,Bethlehem,40.86173,-78.73031,Europe,45.27262,-86.98636
+"Rice, Owen, Jr.; Bethlehem.","175,4",Arrival in England,1818,,NEUTRAL,Bethlehem,40.86173,-78.73031,England,34.54426,-91.96903
+"Rice, Owen; Nazareth.","116,6",Accompanying Cammerhoff to Gnadenhutten,1749,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Rice, Owen; Nazareth.","116,6",Visitor at Gnadenhutten,1749,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Rice, Owen; Nazareth.","116,6",Coming to Gnadenhutten,1749,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Ricksecker, Peter, Lititz.","175,2",Visitor at Goshen,1817,,NEUTRAL,Lititz,40.15732,-76.3069,Goshen,41.40204,-74.32432
+"Riegner (al. Richner), Daniel; Bethlehem.","117,3",Coming to Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Riegner (al. Richner), Daniel; Bethlehem.","117,3",To Bethlehem for the choir festival,1752,,POSITIVE,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Riegner (al. Richner), Daniel; Bethlehem.","117,3",To Bethlehem for a visit,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Rock, Jacob; Lititz, Pa.","162,7","Denke's companion, sick at Fort Erie",1803,,NEGATIVE,"Lititz, Pennsylvania",40.15732,-76.3069,Fort Erie,42.90012,-78.93286
+"Ronner, Johann Reinhard; Bethlehem, Pennsylvania.","111,1",Visitor at Shekomeko,1742,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+"Ronner, Johann Reinhard; Bethlehem, Pennsylvania.","111,7",Visitor at Shekomeko No. 5,1742,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+"Rubel, Johannes; Christiansbrunn.","116,6",Burning tar at Gnadenhutten,1749,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Rubel, Johannes; Christiansbrunn.","116,6",Returning to Bethlehem,1749,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Rubel, Johannes; Christiansbrunn.","117,1",Returning to Bethlehem,1750,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Ruch, Michael; Christiansbrunn.","116,2",Coming to Gnadenhutten,1747,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Ruch, Michael; Christiansbrunn.","116,3",Coming to Gnadenhutten,1748,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Ruch, Michael; Christiansbrunn.","116,3",Going to Bethlehem,1748,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Rudy, Henry; Lititz.","173,1",visitor at Goshen,1804,,NEUTRAL,Lititz,40.15732,-76.3069,Goshen,41.40204,-74.32432
+"Rusmeyer, Albrecht Ludolph; Lancaster, Pa.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Lancaster, Pennsylvania",40.03788,-76.30551,Gnadenhutten,40.3584,-81.43428
+Russlen; Bethlehem.,"117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Samples, U.S. quarter master; Fort Laurens.","147,9",With companions taken back to Fort Laurens by Indian safe-conduct,1779,,NEUTRAL,Fort Laurens,40.63978,-81.45762,Fort Laurens,40.63978,-81.45762
+"Sartorius, Conrad; Neuwied, Germany.","175,3",Visitor at Goshen,1817,,NEUTRAL,"Neuwied, Germany",50.4336,7.47057,Goshen,41.40204,-74.32432
+"Schaus, Johann Adam; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schaus, Johann Adam; Bethlehem.","116,2",Coming to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Scheffler (Schaeffler), Johahnes; Bethlehem.","117,1",Returning to Bethlehem,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+Schemmel; North Carolina.,"171,12",Visitor at Goshen,1803,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Schlegel, Friedrich; Nazareth.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+Schlingoleff; Baltimore.,"175,5",Visitors at Goshen,1819,,NEUTRAL,Baltimore,39.29038,-76.61219,Goshen,41.40204,-74.32432
+"Schmick, Johann Jacob, Jr.; Nazareth.","171,2",Arrived to help with the work at Goshen,1798,,POSITIVE,Nazareth,40.74038,-75.30962,Goshen,41.40204,-74.32432
+"Schmick, Johann Jacob, Jr.; Nazareth.","172,1",Returning to Nazareth,1798,,NEUTRAL,Nazareth,40.74038,-75.30962,Nazareth,40.74038,-75.30962
+"Schmidt, William; Lancaster, Pa.","131,6",Interested in having Wyalusing neighborhood surveyed,1769,,POSITIVE,"Lancaster, Pennsylvania",40.03788,-76.30551,Wyalusing,41.66813,-76.26188
+"Schnall, Carolina.","163,2",Taken to Bethlehem to go to school,1809-06-03,bis,NEUTRAL,Carolina,31.24073,-86.52774,Bethlehem,40.86173,-78.73031
+"Schnall, Carolina.","163,2",Leaving Fairfield,1809,,NEUTRAL,Carolina,31.24073,-86.52774,Fairfield,41.14121,-73.26373
+"Schneider, Paul, Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schnell, Leonhard; Bethlehem.","116,1",Conducting service at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schnell, Leonhard; Bethlehem.","116,1",Returned to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Schnell, Leonhard; Bethlehem.","116,7",Visitor at Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schober, Andreas; Bethlehem.","116,1",Returning to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Schober, Andreas; Bethlehem.","116,1",Going to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Schober, Andreas; Bethlehem.","116,1",Coming to Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schropp, Matthaeus; Bethlehem.","118,3",Coming to Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schwartz, Gottfried; Christiansbrunn.","121,6",Leaving Shamokin,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Shamokin,40.78897,-76.55885
+"Schwartz, Gottfried; Christiansbrunn.","121,9",On duty at Shamokin No. 4,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Shamokin,40.78897,-76.55885
+"Schwartz, Gottfried; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Schweigert, Georg; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schweigert, Georg; Bethlehem.","117,4",Coming to Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Schweisshaupt, Johann; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Seiffert, (""Seyffert""), Johannes; Bethlehem.","117,4",Going to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Seiffert, (""Seyffert""), Johannes; Bethlehem.","117,4",Going to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Seiffert, Anton; Bethlehem, Pa.","111,1",Letter received at Shekomeko,1743,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+Shammel; North Carolina.,"171,12",Visitor at Goshen,1803,,NEUTRAL,North Carolina,35.50069,-80.00032,Goshen,41.40204,-74.32432
+"Simcoe (Symcoe), John G., governor of Upper Canada.","161,1",Receiving written address from missionaries at Fairfield,1793,,NEUTRAL,Upper Canada,44.05502,-79.48201,Fairfield,41.14121,-73.26373
+"Smith, Assariah, Junior, Sicham, N.Y.","115,12",Accompanying Macks to Bethlehem,1762,,NEUTRAL,New York,43.00035,-75.4999,Bethlehem,40.86173,-78.73031
+"Smith, surveyor-general for Upper Canada (Thomas).","162,1",Commissioned to survey Fairfield land,1799,,NEUTRAL,Upper Canada,44.05502,-79.48201,Fairfield,41.14121,-73.26373
+"Steiner, Abraham; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Steiner, Abraham; Christiansbrunn.","117,4",Coming to Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Steiner, Abraham; Christiansbrunn.","117,4",Going to Bethlehem,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Stevens, trader; Petquotting.","173,2",Arriving at Goshen,1806,,NEUTRAL,Petquotting Creek,41.3981,-82.54906,Goshen,41.40204,-74.32432
+"Stevens, trader; Petquotting.","173,4",Bringing letters to Goshen,1807,,NEUTRAL,Petquotting Creek,41.3981,-82.54906,Goshen,41.40204,-74.32432
+"Sydrich, Johann Daniel; Bethlehem.","117,4",Returning to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Tanneberger, David; Nazareth.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Nazareth,40.74038,-75.30962,Gnadenhutten,40.3584,-81.43428
+"Tennent, Gilbert, Presbyterian clergyman; Philadelphia, Pa.","111,4-B",Accused of creating confusion in New England,1743,,NEGATIVE,"Philadelphia, Pennsylvania",39.95238,-75.16362,New England,53.05006,-105.40102
+"Thomson, Charles, secretary of Congress; Philadelphia, Pa.","151,6",Informed on Gnadenhutten massacre 9A,1782,,NEUTRAL,"Philadelphia, Pennsylvania",39.95238,-75.16362,Gnadenhutten,40.3584,-81.43428
+"Thrane, Amadeus Paulinus; Bethlehem.","127,2",Visitor at the Philadelphia Barracks,1764,,NEUTRAL,Bethlehem,40.86173,-78.73031,Philadelphia,39.95238,-75.16362
+"Till, Jacob; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Toeltschig, Johann; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Toeltschig, Johann; Bethlehem.","117,4",Farewell visit at Gnadenhutten announced insert,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Toeltschig, Johann; Bethlehem, Pa.","114,7",To be met at New York,1753,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,New York,43.00035,-75.4999
+"Transou, Philip; Bethlehem.","116,3",Assistant at the Gnadenhutten mill,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Transou, Philip; Bethlehem.","116,3",Returning from Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Transou, Philip; Bethlehem.","116,3",Returning from Bethlehem,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Tschudi, Matthew, from Lititz.","171,13",Visitor at Goshen,1803,,NEUTRAL,Lititz,40.15732,-76.3069,Goshen,41.40204,-74.32432
+"Van Der Merk, Jacobus (""Kobus""); Bethlehem.","116,4",Going to Bethlehem as messenger,1748,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Van Erd, Adam; Christiansbrunn.","117,3",Coming to Gnadenhutten,1752,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Van Erd, Adam; Christiansbrunn.","117,3",Taking oxen to Bethlehem,1752,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Bethlehem,40.86173,-78.73031
+"Van Erd, Adam; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Van Erd, Adam; Christiansbrunn.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,"Christiansbrunn, Pennsylvania",39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Van Vleck, Jacob; Bethlehem.","177,1","Letter to Addison, Pittsburg",1800,,NEUTRAL,Bethlehem,40.86173,-78.73031,Pittsburg,39.94677,-76.40302
+"Verdriess, Hartmann; Bethlehem.","116,6",Returning to Bethlehem,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Verdriess, Hartmann; Bethlehem.","116,6",Bringing letters to Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Verdriess, Hartmann; Bethlehem.","116,6",Going to Bethlehem,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Verdriess, Hartmann; Bethlehem.","116,6",Coming to Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Vetter, Jacob; Bethlehem, Pa.","111,1",Letter received at Shekomeko,1745,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Shekomeko,41.92815,-73.59901
+"Wade, John; Bethlehem.","116,1",Visitor at Gnadenhutten,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Wade, John; Bethlehem.","116,1",Returning to Bethlehem,1747,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Wade, John; Bethlehem.","116,5",Visitor at Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Wade, John; Bethlehem, Pa.","114,2",Preaching to Separatists in Conn.,1750,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Connecticut,41.66704,-72.66648
+"Wade, John; Bethlehem, Pa.","114,2",Preaching at Stockbridge,1750,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Stockbridge,42.28759,-73.32039
+"Wahnert, David; Bethlehem.","117,3",Visitor at Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Wahnert, David; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Wahnert, David; Bethlehem.","116,6",Coming to Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Walther, Georg; Christiansbrunn.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Christiansbrunn,39.95483,-75.99689,Gnadenhutten,40.3584,-81.43428
+"Walton, Asa; Gnadenhutten.","171,6",Present at adult baptism at Goshen,1800,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Walton, Boaz, millwright; Gnadenhutten.","171,7",Visitor at Goshen,1800,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Walton, Boaz, millwright; Gnadenhutten.","173,2",Visitor at Goshen,1806,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Walton, Boaz; Gnadenhutten.","175,8",Visitor at Goshen,1821,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Warner, Daniel; Beersheba.","173,1",Reporting peculiar story from Georgetown,1804,,POSITIVE,Beersheba,35.03791,-81.31925,Georgetown,47.49989,-53.21478
+"Warner, Daniel; Beersheba.","173,9",Engaged as guard &amp; observer at Goshen,1812,,POSITIVE,Beersheba,35.03791,-81.31925,Goshen,41.40204,-74.32432
+"Warner, Ezra; Gnadenhutten.","171,4",Visiting at Goshen,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Warner, Ezra; Gnadenhutten.","171,5",Head of new resident family at Gnadenhutten,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Gnadenhutten,40.3584,-81.43428
+"Warner, Ezra; Gnadenhutten.","171,6",To Goshen for a horseload of meat,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Warner, Peter; Gnadenhutten.","171,4",Visitor at Goshen,1799,,NEUTRAL,Gnadenhutten,40.3584,-81.43428,Goshen,41.40204,-74.32432
+"Weber, Andreas, Bethlehem.","118,2",Coming to Gnadenhutten,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Weber, Andreas, Bethlehem.","118,2",Going to Bethlehem,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Weber, Friedrich; Bethlehem.","118,3",Visitor at Gnadenhutten,1755,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Weber, Friedrich; Bethlehem.","117,4",Visitor at Gnadenhutten,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Weidel, Adam; Bethlehem.","117,3",Coming to Gnadenhutten,1752,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Weigend, John; Bethlehem, Pa.","151,6",Brief stay at Pittsburgh 5B,1781,,NEUTRAL,"Bethlehem, Pennsylvania",40.86173,-78.73031,Pittsburgh,40.44062,-79.99589
+"Weiss, Jacob;. Philadelphia.","127,1",Owner of land west of Province Island,1763,,NEUTRAL,Philadelphia,39.95238,-75.16362,"Province Island, Pennsylvania",39.88539,-75.22907
+"Weiss, Jacob;. Philadelphia.","124,4",Visitor on Province Island,1763,,NEUTRAL,Philadelphia,39.95238,-75.16362,Province Island,39.88539,-75.22907
+"Wesa, Peter; Bethlehem.","116,6",Arriving at Gnadenhutten,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Wesa, Peter; Bethlehem.","116,6",To Bethlehem,1749,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Willson, U.S. government employee; Philadelphia.","162,3","Visitor, telling news about Europe",1800,,NEUTRAL,Philadelphia,39.95238,-75.16362,Europe,45.27262,-86.98636
+"Wilson, justice; Dutchess Co., New York, (""Wiltson"").","112,6",Appearing at Shekomeko No. 11,1744,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Wilson, justice; Dutchess Co., New York, (""Wiltson"").","111,1",Spying at Shekomeko,1745,,NEUTRAL,"Dutchess County, New York",41.76515,-73.74286,Shekomeko,41.92815,-73.59901
+"Wood, lawyer; Sandwich, Ont.","162,12",Visitor at Fairfield,1806,,NEUTRAL,"Sandwich, Ontario",42.28318,-83.05925,Fairfield,41.14121,-73.26373
+"Worbass, Peter; Bethlehem.","117,4",Returning to Bethlehem,1753,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Worbass, Peter; Bethlehem.","118,1",Going to Bethlehem,1754,,NEUTRAL,Bethlehem,40.86173,-78.73031,Bethlehem,40.86173,-78.73031
+"Wutke, Samuel; Bethlehem.","117,1",Coming to Gnadenhutten,1750,,NEUTRAL,Bethlehem,40.86173,-78.73031,Gnadenhutten,40.3584,-81.43428
+"Zander, Wilhelm, missionary; Berbice.","116,5",Arriving at Bethlehem,1749,,NEUTRAL,Berbice,5.45,-57.95,Bethlehem,40.86173,-78.73031
+"Zander, Wilhelm, missionary; Berbice.","116,5",Visitor at Gnadenhutten,1749,,NEUTRAL,Berbice,5.45,-57.95,Gnadenhutten,40.3584,-81.43428

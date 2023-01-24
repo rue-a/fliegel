@@ -1,0 +1,253 @@
+code	iso_code	id	country	capital	
+AD	AND	020	Andorra	Andorra la Vella
+AE	ARE	784	United Arab Emirates	Abu Dhabi
+AF	AFG	004	Afghanistan	Kabul
+AG	ATG	028	Antigua and Barbuda	St. John's
+AI	AIA	660	Anguilla	The Valley
+AL	ALB	008	Albania	Tirana
+AM	ARM	051	Armenia	Yerevan
+AO	AGO	024	Angola	Luanda
+AQ	ATA	010	Antarctica	
+AR	ARG	032	Argentina	Buenos Aires
+AS	ASM	016	American Samoa	Pago Pago
+AT	AUT	040	Austria	Vienna
+AU	AUS	036	Australia	Canberra
+AW	ABW	533	Aruba	Oranjestad
+AX	ALA	248	Aland Islands	Mariehamn
+AZ	AZE	031	Azerbaijan	Baku
+BA	BIH	070	Bosnia and Herzegovina	Sarajevo
+BB	BRB	052	Barbados	Bridgetown
+BD	BGD	050	Bangladesh	Dhaka
+BE	BEL	056	Belgium	Brussels
+BF	BFA	854	Burkina Faso	Ouagadougou
+BG	BGR	100	Bulgaria	Sofia
+BH	BHR	048	Bahrain	Manama
+BI	BDI	108	Burundi	Gitega
+BJ	BEN	204	Benin	Porto-Novo
+BL	BLM	652	Saint Barthelemy	Gustavia
+BM	BMU	060	Bermuda	Hamilton
+BN	BRN	096	Brunei	Bandar Seri Begawan
+BO	BOL	068	Bolivia	Sucre
+BQ	BES	535	"Bonaire, Saint Eustatius and Saba "	
+BR	BRA	076	Brazil	Brasilia
+BS	BHS	044	Bahamas	Nassau
+BT	BTN	064	Bhutan	Thimphu
+BV	BVT	074	Bouvet Island	
+BW	BWA	072	Botswana	Gaborone
+BY	BLR	112	Belarus	Minsk
+BZ	BLZ	084	Belize	Belmopan
+CA	CAN	124	Canada	Ottawa
+CC	CCK	166	Cocos Islands	West Island
+CD	COD	180	Democratic Republic of the Congo	Kinshasa
+CF	CAF	140	Central African Republic	Bangui
+CG	COG	178	Republic of the Congo	Brazzaville
+CH	CHE	756	Switzerland	Bern
+CI	CIV	384	Ivory Coast	Yamoussoukro
+CK	COK	184	Cook Islands	Avarua
+CL	CHL	152	Chile	Santiago
+CM	CMR	120	Cameroon	Yaounde
+CN	CHN	156	China	Beijing
+CO	COL	170	Colombia	Bogota
+CR	CRI	188	Costa Rica	San Jose
+CU	CUB	192	Cuba	Havana
+CV	CPV	132	Cabo Verde	Praia
+CW	CUW	531	Curacao	" Willemstad"
+CX	CXR	162	Christmas Island	Flying Fish Cove
+CY	CYP	196	Cyprus	Nicosia
+CZ	CZE	203	Czechia	Prague
+DE	DEU	276	Germany	Berlin
+DJ	DJI	262	Djibouti	Djibouti
+DK	DNK	208	Denmark	Copenhagen
+DM	DMA	212	Dominica	Roseau
+DO	DOM	214	Dominican Republic	Santo Domingo
+DZ	DZA	012	Algeria	Algiers
+EC	ECU	218	Ecuador	Quito
+EE	EST	233	Estonia	Tallinn
+EG	EGY	818	Egypt	Cairo
+EH	ESH	732	Western Sahara	El-Aaiun
+ER	ERI	232	Eritrea	Asmara
+ES	ESP	724	Spain	Madrid
+ET	ETH	231	Ethiopia	Addis Ababa
+FI	FIN	246	Finland	Helsinki
+FJ	FJI	242	Fiji	Suva
+FK	FLK	238	Falkland Islands	Stanley
+FM	FSM	583	Micronesia	Palikir
+FO	FRO	234	Faroe Islands	Torshavn
+FR	FRA	250	France	Paris
+GA	GAB	266	Gabon	Libreville
+GB	GBR	826	United Kingdom	London
+GD	GRD	308	Grenada	St. George's
+GE	GEO	268	Georgia-ignore	Tbilisi
+GF	GUF	254	French Guiana	Cayenne
+GG	GGY	831	Guernsey	St Peter Port
+GH	GHA	288	Ghana	Accra
+GI	GIB	292	Gibraltar	Gibraltar
+GL	GRL	304	Greenland	Nuuk
+GM	GMB	270	Gambia	Banjul
+GN	GIN	324	Guinea	Conakry
+GP	GLP	312	Guadeloupe	Basse-Terre
+GQ	GNQ	226	Equatorial Guinea	Malabo
+GR	GRC	300	Greece	Athens
+GS	SGS	239	South Georgia and the South Sandwich Islands	Grytviken
+GT	GTM	320	Guatemala	Guatemala City
+GU	GUM	316	Guam	Hagatna
+GW	GNB	624	Guinea-Bissau	Bissau
+GY	GUY	328	Guyana	Georgetown
+HK	HKG	344	Hong Kong	Hong Kong
+HM	HMD	334	Heard Island and McDonald Islands	
+HN	HND	340	Honduras	Tegucigalpa
+HR	HRV	191	Croatia	Zagreb
+HT	HTI	332	Haiti	Port-au-Prince
+HU	HUN	348	Hungary	Budapest
+ID	IDN	360	Indonesia	Jakarta
+IE	IRL	372	Ireland	Dublin
+IL	ISR	376	Israel	Jerusalem
+IM	IMN	833	Isle of Man	Douglas
+IN	IND	356	India	New Delhi
+IO	IOT	086	British Indian Ocean Territory	Diego Garcia
+IQ	IRQ	368	Iraq	Baghdad
+IR	IRN	364	Iran	Tehran
+IS	ISL	352	Iceland	Reykjavik
+IT	ITA	380	Italy	Rome
+JE	JEY	832	Jersey	Saint Helier
+JM	JAM	388	Jamaica	Kingston
+JO	JOR	400	Jordan	Amman
+JP	JPN	392	Japan	Tokyo
+KE	KEN	404	Kenya	Nairobi
+KG	KGZ	417	Kyrgyzstan	Bishkek
+KH	KHM	116	Cambodia	Phnom Penh
+KI	KIR	296	Kiribati	Tarawa
+KM	COM	174	Comoros	Moroni
+KN	KNA	659	Saint Kitts and Nevis	Basseterre
+KP	PRK	408	North Korea	Pyongyang
+KR	KOR	410	South Korea	Seoul
+XK	XKX	0	Kosovo	Pristina
+KW	KWT	414	Kuwait	Kuwait City
+KY	CYM	136	Cayman Islands	George Town
+KZ	KAZ	398	Kazakhstan	Nur-Sultan
+LA	LAO	418	Laos	Vientiane
+LB	LBN	422	Lebanon	Beirut
+LC	LCA	662	Saint Lucia	Castries
+LI	LIE	438	Liechtenstein	Vaduz
+LK	LKA	144	Sri Lanka	Colombo
+LR	LBR	430	Liberia	Monrovia
+LS	LSO	426	Lesotho	Maseru
+LT	LTU	440	Lithuania	Vilnius
+LU	LUX	442	Luxembourg	Luxembourg
+LV	LVA	428	Latvia	Riga
+LY	LBY	434	Libya	Tripoli
+MA	MAR	504	Morocco	Rabat
+MC	MCO	492	Monaco	Monaco
+MD	MDA	498	Moldova	Chisinau
+ME	MNE	499	Montenegro	Podgorica
+MF	MAF	663	Saint Martin	Marigot
+MG	MDG	450	Madagascar	Antananarivo
+MH	MHL	584	Marshall Islands	Majuro
+MK	MKD	807	North Macedonia	Skopje
+ML	MLI	466	Mali	Bamako
+MM	MMR	104	Myanmar	Nay Pyi Taw
+MN	MNG	496	Mongolia	Ulaanbaatar
+MO	MAC	446	Macao	Macao
+MP	MNP	580	Northern Mariana Islands	Saipan
+MQ	MTQ	474	Martinique	Fort-de-France
+MR	MRT	478	Mauritania	Nouakchott
+MS	MSR	500	Montserrat	Plymouth
+MT	MLT	470	Malta	Valletta
+MU	MUS	480	Mauritius	Port Louis
+MV	MDV	462	Maldives	Male
+MW	MWI	454	Malawi	Lilongwe
+MX	MEX	484	Mexico	Mexico City
+MY	MYS	458	Malaysia	Kuala Lumpur
+MZ	MOZ	508	Mozambique	Maputo
+NA	NAM	516	Namibia	Windhoek
+NC	NCL	540	New Caledonia	Noumea
+NE	NER	562	Niger	Niamey
+NF	NFK	574	Norfolk Island	Kingston
+NG	NGA	566	Nigeria	Abuja
+NI	NIC	558	Nicaragua	Managua
+NL	NLD	528	Netherlands	Amsterdam
+NO	NOR	578	Norway	Oslo
+NP	NPL	524	Nepal	Kathmandu
+NR	NRU	520	Nauru	Yaren
+NU	NIU	570	Niue	Alofi
+NZ	NZL	554	New Zealand	Wellington
+OM	OMN	512	Oman	Muscat
+PA	PAN	591	Panama	Panama City
+PE	PER	604	Peru	Lima
+PF	PYF	258	French Polynesia	Papeete
+PG	PNG	598	Papua New Guinea	Port Moresby
+PH	PHL	608	Philippines	Manila
+PK	PAK	586	Pakistan	Islamabad
+PL	POL	616	Poland	Warsaw
+PM	SPM	666	Saint Pierre and Miquelon	Saint-Pierre
+PN	PCN	612	Pitcairn	Adamstown
+PR	PRI	630	Puerto Rico	San Juan
+PS	PSE	275	Palestinian Territory	East Jerusalem
+PT	PRT	620	Portugal	Lisbon
+PW	PLW	585	Palau	Melekeok
+PY	PRY	600	Paraguay	Asuncion
+QA	QAT	634	Qatar	Doha
+RE	REU	638	Reunion	Saint-Denis
+RO	ROU	642	Romania	Bucharest
+RS	SRB	688	Serbia	Belgrade
+RU	RUS	643	Russia	Moscow
+RW	RWA	646	Rwanda	Kigali
+SA	SAU	682	Saudi Arabia	Riyadh
+SB	SLB	090	Solomon Islands	Honiara
+SC	SYC	690	Seychelles	Victoria
+SD	SDN	729	Sudan	Khartoum
+SS	SSD	728	South Sudan	Juba
+SE	SWE	752	Sweden	Stockholm
+SG	SGP	702	Singapore	Singapore
+SH	SHN	654	Saint Helena	Jamestown
+SI	SVN	705	Slovenia	Ljubljana
+SJ	SJM	744	Svalbard and Jan Mayen	Longyearbyen
+SK	SVK	703	Slovakia	Bratislava
+SL	SLE	694	Sierra Leone	Freetown
+SM	SMR	674	San Marino	San Marino
+SN	SEN	686	Senegal	Dakar
+SO	SOM	706	Somalia	Mogadishu
+SR	SUR	740	Suriname	Paramaribo
+ST	STP	678	Sao Tome and Principe	Sao Tome
+SV	SLV	222	El Salvador	San Salvador
+SX	SXM	534	Sint Maarten	Philipsburg
+SY	SYR	760	Syria	Damascus
+SZ	SWZ	748	Eswatini	Mbabane
+TC	TCA	796	Turks and Caicos Islands	Cockburn Town
+TD	TCD	148	Chad	N'Djamena
+TF	ATF	260	French Southern Territories	Port-aux-Francais
+TG	TGO	768	Togo	Lome
+TH	THA	764	Thailand	Bangkok
+TJ	TJK	762	Tajikistan	Dushanbe
+TK	TKL	772	Tokelau	
+TL	TLS	626	Timor Leste	Dili
+TM	TKM	795	Turkmenistan	Ashgabat
+TN	TUN	788	Tunisia	Tunis
+TO	TON	776	Tonga	Nuku'alofa
+TR	TUR	792	Turkey	Ankara
+TT	TTO	780	Trinidad and Tobago	Port of Spain
+TV	TUV	798	Tuvalu	Funafuti
+TW	TWN	158	Taiwan	Taipei
+TZ	TZA	834	Tanzania	Dodoma
+UA	UKR	804	Ukraine	Kyiv
+UG	UGA	800	Uganda	Kampala
+UM	UMI	581	United States Minor Outlying Islands	
+US	USA	840	United States	Washington
+UY	URY	858	Uruguay	Montevideo
+UZ	UZB	860	Uzbekistan	Tashkent
+VA	VAT	336	Vatican	Vatican City
+VC	VCT	670	Saint Vincent and the Grenadines	Kingstown
+VE	VEN	862	Venezuela	Caracas
+VG	VGB	092	British Virgin Islands	Road Town
+VI	VIR	850	U.S. Virgin Islands	Charlotte Amalie
+VN	VNM	704	Vietnam	Hanoi
+VU	VUT	548	Vanuatu	Port Vila
+WF	WLF	876	Wallis and Futuna	Mata Utu
+WS	WSM	882	Samoa	Apia
+YE	YEM	887	Yemen	Sanaa
+YT	MYT	175	Mayotte	Mamoudzou
+ZA	ZAF	710	South Africa	Pretoria
+ZM	ZMB	894	Zambia	Lusaka
+ZW	ZWE	716	Zimbabwe	Harare
+CS	SCG	891	Serbia and Montenegro	Belgrade
+AN	ANT	530	Netherlands Antilles	Willemstad

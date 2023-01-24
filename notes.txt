@@ -1,0 +1,1 @@
+- ignore georgia country (countries.csv line 80)
