@@ -1,1 +1,3 @@
 - ignore georgia country (countries.csv line 80)
+- ignoree place "Augusta" in gazetteer (get matched with surname August) (11_post_processing_white_ppl_index.py)
+- drop moravia placename, 1st not geocoded correctly, 2nd gets matches a lot (09_post_processing.py)

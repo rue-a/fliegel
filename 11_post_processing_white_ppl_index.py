@@ -43,3 +43,12 @@ for loc in locs:
     freq[loc] += 1
 freq = sorted(freq.items(), key=lambda x: x[1])
 pprint(freq)
+
+
+print(
+    "unique person locations " + str(len(list(set(list(fliegel_person["geo_person"])))))
+)
+print(
+    "unique factoid locations "
+    + str(len(list(set(list(fliegel_factoid["geo_factoid"])))))
+)
