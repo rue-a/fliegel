@@ -14,7 +14,7 @@ fliegel:fliegel_geoperson_and_geofactoid.csv a prov:Entity ;
     rdfs:label "geojsons/"@en ;
     prov:wasGeneratedBy fliegel:12_geojsons_from_white_ppl_index.py .
 
-<https://download.geonames.org/export/dump/bcd0b924-70a3-45b8-9b18-e357faa0a97a> a prov:Entity ;
+<https://download.geonames.org/export/dump/6af59ac2-b8fd-4f73-874a-fee3c499ee3a> a prov:Entity ;
     rdfs:label "geonames_dl"@en .
 
 fliegel:01_xml2csv.py a prov:Activity ;
@@ -47,7 +47,7 @@ fliegel:05_apply_heuristics.py a prov:Activity ;
 
 fliegel:06_prepare_geonames.py a prov:Activity ;
     rdfs:label "06_prepare_geonames.py"@en ;
-    prov:used <https://download.geonames.org/export/dump/bcd0b924-70a3-45b8-9b18-e357faa0a97a> .
+    prov:used <https://download.geonames.org/export/dump/6af59ac2-b8fd-4f73-874a-fee3c499ee3a> .
 
 fliegel:07_prepare_geocode.py a prov:Activity ;
     rdfs:label "07_prepare_geocode.py"@en ;
