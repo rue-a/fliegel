@@ -10,11 +10,6 @@ The authors used Python 3.11.0 with the latest versions of the libraries used (a
 
 ## Provenance Graph
 
-<style type="text/css" rel="stylesheet">
-a:link {
-  text-decoration: none;
-}
-</style>
 ```mermaid
 flowchart TD
 classDef entity fill:#fffedf
