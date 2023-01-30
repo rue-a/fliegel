@@ -98,7 +98,8 @@ prep_geonames.used(geonames_files)
 #     prep_geonames.used(entity)
 
 geonames = pog.add_entity(
-    "geonames/geonames_prepared.csv", "geonames/geonames_prepared.csv"
+    "geonames/geonames_prepared.csv",
+    "geonames_prepared - not in repo, too large",
 )
 geonames.was_generated_by(prep_geonames)
 
