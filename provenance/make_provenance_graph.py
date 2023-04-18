@@ -10,9 +10,7 @@ pog = ProvOntologyGraph(
 
 geogNames_xml = pog.add_entity("fliegel_geogNames.xml", "fliegel_geogNames.xml")
 
-xml2Csv = pog.add_activity(
-    "01_xml2csv.py", "01_xml2csv.py"
-)
+xml2Csv = pog.add_activity("01_xml2csv.py", "01_xml2csv.py")
 xml2Csv.used(geogNames_xml)
 
 fliegel_geog_names = pog.add_entity(
@@ -105,9 +103,9 @@ geonames.was_generated_by(prep_geonames)
 
 prep_geocode = pog.add_activity("07_prepare_geocode.py", "07_prepare_geocode.py")
 prep_geocode.used(typed)
-prep_geocode.used(admin_levels)
+prep_geocode.used(admin1)
+prep_geocode.used(admin2)
 prep_geocode.used(countries)
-prep_geocode.used(fliegel_geog_names)
 
 prepared = pog.add_entity(
     "interim/fliegel_prepared.csv", "interim/fliegel_prepared.csv"
@@ -166,5 +164,5 @@ make_geojsons.used(geofactoid)
 geojsons = pog.add_entity("geojsons/", "geojsons/")
 geojsons.was_generated_by(make_geojsons)
 
-pog.export_as_mermaid_flowchart(file_name="provenance_graph.md")
-pog.serialize_as_rdf(file_name="provenance_graph.ttl")
+pog.export_as_mermaid_flowchart(file_name="provenance/provenance_graph.md")
+pog.serialize_as_rdf(file_name="provenance/provenance_graph.ttl")

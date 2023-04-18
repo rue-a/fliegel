@@ -14,12 +14,11 @@ fliegel:fliegel_geoperson_and_geofactoid.csv a prov:Entity ;
     rdfs:label "geojsons/"@en ;
     prov:wasGeneratedBy fliegel:12_geojsons_from_white_ppl_index.py .
 
-<https://download.geonames.org/export/dump/4d4add76-f247-4645-b4b7-5347a99bbdab> a prov:Entity ;
+<https://download.geonames.org/export/dump/48be2cf8-6c74-4f7f-898b-d8b98ebcf66e> a prov:Entity ;
     rdfs:label "geonames_dl"@en .
 
 fliegel:01_xml2csv.py a prov:Activity ;
     rdfs:label "01_xml2csv.py"@en ;
-    rdfs:comment "An arbitrary activity."@en ;
     prov:used fliegel:fliegel_geogNames.xml .
 
 fliegel:02_makle_admin_levels_list.py a prov:Activity ;
@@ -47,13 +46,13 @@ fliegel:05_apply_heuristics.py a prov:Activity ;
 
 fliegel:06_prepare_geonames.py a prov:Activity ;
     rdfs:label "06_prepare_geonames.py"@en ;
-    prov:used <https://download.geonames.org/export/dump/4d4add76-f247-4645-b4b7-5347a99bbdab> .
+    prov:used <https://download.geonames.org/export/dump/48be2cf8-6c74-4f7f-898b-d8b98ebcf66e> .
 
 fliegel:07_prepare_geocode.py a prov:Activity ;
     rdfs:label "07_prepare_geocode.py"@en ;
-    prov:used <https://github.com/rue-a/fliegel/tree/master/admin_codes/admin_levels.csv>,
-        <https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/countries.csv>,
-        <https://github.com/rue-a/fliegel/tree/master/interim/fliegel_geog_names.csv>,
+    prov:used <https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/countries.csv>,
+        <https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin1CodesASCII.csv>,
+        <https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin2Codes.csv>,
         <https://github.com/rue-a/fliegel/tree/master/interim/fliegel_typed.csv> .
 
 fliegel:08_geocode.py a prov:Activity ;
@@ -78,12 +77,6 @@ fliegel:12_geojsons_from_white_ppl_index.py a prov:Activity ;
 fliegel:Fliegel_WhitePeople_sentiment.csv a prov:Entity ;
     rdfs:label "Fliegel_WhitePeople_sentiment.csv"@en .
 
-<https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin1CodesASCII.csv> a prov:Entity ;
-    rdfs:label "geonames_admin1"@en .
-
-<https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin2Codes.csv> a prov:Entity ;
-    rdfs:label "geonames_admin2"@en .
-
 fliegel:fliegel_gazetteer.csv a prov:Entity ;
     rdfs:label "fliegel_gazetteer.csv"@en ;
     prov:wasGeneratedBy fliegel:09_post_processing.py .
@@ -102,6 +95,10 @@ fliegel:fliegel_geogNames.xml a prov:Entity ;
 <https://github.com/rue-a/fliegel/tree/master/interim/fliegel_geocoded.csv> a prov:Entity ;
     rdfs:label "interim/fliegel_geocoded.csv"@en ;
     prov:wasGeneratedBy fliegel:08_geocode.py .
+
+<https://github.com/rue-a/fliegel/tree/master/interim/fliegel_geog_names.csv> a prov:Entity ;
+    rdfs:label "interim/fliegel_geog_names.csv"@en ;
+    prov:wasGeneratedBy fliegel:01_xml2csv.py .
 
 <https://github.com/rue-a/fliegel/tree/master/interim/fliegel_prepared.csv> a prov:Entity ;
     rdfs:label "interim/fliegel_prepared.csv"@en ;
@@ -122,21 +119,23 @@ fliegel:fliegel_geogNames.xml a prov:Entity ;
 <https://github.com/rue-a/fliegel/tree/master/misc/abbreviations.csv> a prov:Entity ;
     rdfs:label "misc/abbreviations.csv"@en .
 
+<https://github.com/rue-a/fliegel/tree/master/admin_codes/admin_levels.csv> a prov:Entity ;
+    rdfs:label "admin_codes/admin_levels.csv"@en ;
+    prov:wasGeneratedBy fliegel:02_makle_admin_levels_list.py .
+
+<https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin1CodesASCII.csv> a prov:Entity ;
+    rdfs:label "geonames_admin1"@en .
+
+<https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/geonames_admin2Codes.csv> a prov:Entity ;
+    rdfs:label "geonames_admin2"@en .
+
 <https://github.com/rue-a/fliegel/tree/master/interim/fliegel_condensed.csv> a prov:Entity ;
     rdfs:label "interim/fliegel_condensed.csv"@en ;
     prov:wasGeneratedBy fliegel:04_condense_duplicates.py .
 
-<https://github.com/rue-a/fliegel/tree/master/interim/fliegel_geog_names.csv> a prov:Entity ;
-    rdfs:label "interim/fliegel_geog_names.csv"@en ;
-    prov:wasGeneratedBy fliegel:01_xml2csv.py .
-
 fliegel:11_post_processing_white_ppl_index.py a prov:Activity ;
     rdfs:label "11_post_processing_white_ppl_index.py"@en ;
     prov:used <https://github.com/rue-a/fliegel/tree/master/interim/white_ppl_index_geocoded.csv> .
-
-<https://github.com/rue-a/fliegel/tree/master/admin_codes/admin_levels.csv> a prov:Entity ;
-    rdfs:label "admin_codes/admin_levels.csv"@en ;
-    prov:wasGeneratedBy fliegel:02_makle_admin_levels_list.py .
 
 <https://github.com/rue-a/fliegel/tree/master/admin_codes/downloads/countries.csv> a prov:Entity ;
     rdfs:label "countries"@en .

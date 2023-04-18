@@ -8,39 +8,16 @@ pog = ProvOntologyGraph(
     lang="en",
 )
 
-geogNames_xml = pog.add_entity("fliegel_geogNames.xml", "Fliegel Geog. Names XML")
-
-xml2Csv = pog.add_activity("01_xml2csv.py", "XML2CSV.py")
-xml2Csv.used(geogNames_xml)
 
 fliegel_geog_names = pog.add_entity(
     "interim/fliegel_geog_names.csv", "Fliegel Geog. Names"
 )
-fliegel_geog_names.was_generated_by(xml2Csv)
 
-countries = pog.add_entity("admin_codes/downloads/countries.csv", "GeoNames Countries")
-admin1 = pog.add_entity(
-    "admin_codes/downloads/geonames_admin1CodesASCII.csv",
-    "GeoNames Subnational Admin Level - States",
-)
-admin2 = pog.add_entity(
-    "admin_codes/downloads/geonames_admin2Codes.csv",
-    "GeoNames Sub-Subnational Admin Level - Counties",
-)
-
-make_admin_levels_list = pog.add_activity(
-    "02_makle_admin_levels_list.py", "Make Hierachy"
-)
-make_admin_levels_list.used(countries)
-make_admin_levels_list.used(admin1)
-make_admin_levels_list.used(admin2)
 
 admin_levels = pog.add_entity(
     "admin_codes/admin_levels.csv", "Admin Areas Hierarchy Table"
 )
 
-
-admin_levels.was_generated_by(make_admin_levels_list)
 
 abbreviations = pog.add_entity("misc/abbreviations.csv", "Abbreviations List")
 
@@ -50,7 +27,6 @@ headlines_into_schema = pog.add_activity(
 )
 headlines_into_schema.used(abbreviations)
 headlines_into_schema.used(admin_levels)
-headlines_into_schema.used(countries)
 headlines_into_schema.used(fliegel_geog_names)
 
 schematized = pog.add_entity(
@@ -69,7 +45,6 @@ heuristics = pog.add_activity(
     "05_apply_heuristics.py", "Heuristically Assign Feature Types"
 )
 heuristics.used(condensed)
-heuristics.used(countries)
 heuristics.used(admin_levels)
 
 typed = pog.add_entity("interim/fliegel_typed.csv", "Fliegel Typed Entries")
@@ -106,8 +81,6 @@ geonames.was_generated_by(prep_geonames)
 prep_geocode = pog.add_activity("07_prepare_geocode.py", "Prepare for Geocoding")
 prep_geocode.used(typed)
 prep_geocode.used(admin_levels)
-prep_geocode.used(countries)
-prep_geocode.used(fliegel_geog_names)
 
 prepared = pog.add_entity("interim/fliegel_prepared.csv", "Fliegel Prepared Entries")
 prepared.was_generated_by(prep_geocode)
@@ -121,7 +94,6 @@ geocoded.was_generated_by(geocode)
 
 postprocessing = pog.add_activity("09_post_processing.py", "Postprocess")
 postprocessing.used(geocoded)
-postprocessing.used(condensed)
 
 gazetteer = pog.add_entity(
     "fliegel_gazetteer.csv", "Gazetteer of Geographic Names in Fliegel Index"
@@ -168,11 +140,10 @@ geojsons = pog.add_entity("geojsons/", "Fliegel White Ppl. Ind. GeoJSONs")
 geojsons.was_generated_by(make_geojsons)
 
 pog.export_as_mermaid_flowchart(
-    file_name="provenance_graph_labels.md",
+    file_name="provenance/provenance_graph_simplified.md",
     user_options={
         "revert-relations": True,
-        "entity": {"fill": "#FC766AFF", "stroke": "#FC766AFF", "color": "333"},
-        "activity": {"fill": "#184A45FF", "stroke": "#184A45FF", "color": "#eee"},
+        "entity": {"fill": "#DA4E3DFF", "stroke": "#DA4E3DFF", "color": "#eee"},
+        "activity": {"fill": "#276EBAFF", "stroke": "#276EBAFF", "color": "#eee"},
     },
 )
-pog.serialize_as_rdf(file_name="provenance_graph_labels.ttl")
